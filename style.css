@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(231, 120, 56);
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(36, 36, 36);
+}
+
+h1{
+    font-size: 50px;
+text-align: center;
+}
+img{
+    width: 30%;
+    height: 30%;
+}
+h2{
+    text-align: right;
+}
+h3{
+ font-size: 50px;
+margin-left: 80px;
+ 
+}
+.farova{
+width: 20%;
+    height: 20%;
+}
+.nav{
+width: 30%;
+height: 30%;
+margin-left: 1300px;
+margin: 623px;
+margin-top: -727px;
+}
+.Nosaci{
+    font-size: 50px;
+margin-left: 750px;
+margin-top: -570px;
+}
+.ulje{
+    width: 30%;
+    height: 30%;
+    margin-left: 1320px;
+    margin-top: -735px;
+    margin-bottom: 1000px;
+}
+.zastita{
+margin-left: 1450px;
+margin-top: -940px;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
